@@ -9,4 +9,4 @@ This is a project for learning. We are not security experts and are not in any w
 If you are completely new to ORMs and/or Sequelize, here is a great 6 part video introduction by [Alex Booker](https://twitter.com/bookercodes) - [Sequelize: An Introduction](https://www.youtube.com/watch?v=qsDvJrGMSUY&list=PL5ze0DjYv5DYBDfl0vF_VRxEu8JdTIHlR).
 
 ## MediaFire
-While going through Richard's tutorial I also became aware of [MediaFire](https://www.mediafire.com/), a file sharing site for files up to 4GB in size with a 10GB of free space.
+While going through Richard's tutorial I also became aware of [MediaFire](https://www.mediafire.com/), a file sharing site for files up to 4GB in size with 10GB of free space.
