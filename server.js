@@ -23,10 +23,10 @@ app.use(passport.initialize());
 app.use(passport.session());
 //
 // Requiring our routes
-require("./routes/html-routes")(app);
-// app.use('/', htmlRoutes)
-require("./routes/api-routes.js")(app);
-// app.use('/', apiRoutes)
+// require("./routes/html-routes")(app);
+app.use('/', htmlRoutes)
+// require("./routes/api-routes.js")(app);
+app.use('/api', apiRoutes)
 //
 //this will listen to and show all activities on our terminal to
 //let us know what is happening in our app
