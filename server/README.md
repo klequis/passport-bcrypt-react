@@ -1,6 +1,6 @@
 # PassportJS Auth Tutorial
 
-From a really excellent tutorial by [Richard Debrah](https://richard-debrah.herokuapp.com/): [PassportJS Auth Tutorial](https://github.com/GM456742/PassportJS_Auth_Tutorial)
+Derived from a really excellent tutorial by [Richard Debrah](https://richard-debrah.herokuapp.com/): [PassportJS Auth Tutorial](https://github.com/GM456742/PassportJS_Auth_Tutorial)
 
 ## Important Note
 This is a project for learning. We are not security experts and are not in any way suggesting you should deploy this code to production.
